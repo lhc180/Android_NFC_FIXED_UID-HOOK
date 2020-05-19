@@ -9,6 +9,10 @@
     [xHook](https://github.com/iqiyi/xHook)，iqiyi开源的一个Android PLT Hook库。
 
     [android_system_nfc](https://github.com/LineageOS/android_system_nfc)，libnfc-nci.so的源代码，用到了里面的一些头文件。
+    
+    这里已经把全部代码放在一起了；
+    
+    android 6 build  at libs-ok
 
 3. 测试方法
 
